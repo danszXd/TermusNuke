@@ -32,7 +32,7 @@ apt update && apt upgrade
 
 pkg install python git
 
-git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
+git clone https://github.com/danszXd/TermusNuke.git
 
 cd Discord-Nuke-Bot
 
@@ -56,7 +56,7 @@ python nuke-bot.py
 
 ```console
 
-git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
+git clone https://github.com/danszXd/TermusNuke.git
 
 cd Discord-Nuke-Bot
 
